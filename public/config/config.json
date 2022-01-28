@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa3533d10feefed1063f5ca60d17b1e8cc22720be",
+  "SCAN_LINK": "https://etherscan.io/address/0xa3533d10feefed1063f5ca60d17b1e8cc22720be",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Afaction",
+  "SYMBOL": "AFAC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/afaction",
+  "SHOW_BACKGROUND": true
+}
