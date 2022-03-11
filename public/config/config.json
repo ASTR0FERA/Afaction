@@ -1,17 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0xa3533d10feefed1063f5ca60d17b1e8cc22720be",
-  "SCAN_LINK": "https://etherscan.io/address/0xa3533d10feefed1063f5ca60d17b1e8cc22720be",
+  "CONTRACT_ADDRESS": "0x1AFBd5509d2ECbe7bf56d55560eCE9f0F6FD26a9",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1afbd5509d2ecbe7bf56d55560ece9f0f6fd26a9",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
   "NFT_NAME": "Afaction",
   "SYMBOL": "AFAC",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0.00,
-  "GAS_LIMIT": 285000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 350000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/afaction",
   "SHOW_BACKGROUND": true
